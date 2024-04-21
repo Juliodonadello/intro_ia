@@ -44,6 +44,8 @@ puede corregir cualquier trabajo práctico independientemente de si está aproba
 
 ### TP3:
 
-- Enunciado
+- [Enunciado](./clase6/trabajo_practico_3/README.md)
 - Formulario de entrega de TP3: [https://forms.gle/pkV61Vi7scAtWqTe7](https://forms.gle/pkV61Vi7scAtWqTe7)
 - Formulario de entrega de correcciones de TP3: [https://forms.gle/xbnHRoQiw6bmH3Ax7](https://forms.gle/xbnHRoQiw6bmH3Ax7)
+
+La fecha límite de entrega de las correcciones es el 05/05/2024 a las 23:59
